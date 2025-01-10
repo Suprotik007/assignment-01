@@ -1,0 +1,28 @@
+h3{
+    color: chocolate; 
+    font-family: cursive;
+    font-size: larger;
+    font-size: larger;
+    background-color: black ;
+    background-size: 10%;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size:medium;
+    
+    
+}
+.blog{
+    margin: 50px;
+    box-shadow: 20px 20px 50px 10px; color: black;
+    border-radius: 10px 15px 20px 25px;
+    background-color: darkkhaki;
+    border-color: aquamarine;
+    padding: 8px 8px 10px 10px;
+}
+
+body{
+    background-color: cornsilk;
+}
